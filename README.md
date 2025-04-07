@@ -30,12 +30,19 @@ KG-QA-Chatbot is designed to understand user queries, fetch data from DBpedia us
 
 ---
 
-## 🔁 Flow Diagram
+## Flow Diagram
 
 <img width="789" alt="image" src="https://github.com/user-attachments/assets/d241cb45-c682-4d43-b222-d893333bbfbd" />
 
 
 The diagram outlines the end-to-end workflow: from user input to SPARQL querying, and final response generation using an LLM.
+
+---
+## Team Members
+
+- **Vignesh Mallya** - `4001498`
+- **Bhavana Raju** - `4000149`
+- **Shree Shaangavi N** - `4000243`
 
 ---
 
