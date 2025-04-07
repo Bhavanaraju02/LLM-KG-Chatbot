@@ -48,6 +48,8 @@ The diagram outlines the end-to-end workflow: from user input to SPARQL querying
 
 
 ##  Project Structure
+
+```bash
 LLM-KG-Chatbot/
 ├── src/                          # Contains all the source code files for the project
 │   ├── __init__.py                # Marks the folder as a Python package (if needed)
@@ -62,6 +64,7 @@ LLM-KG-Chatbot/
 │   └── secrets.toml               # Stores sensitive information like API keys and credentials
 ├── requirements.txt               # Lists the external libraries and dependencies required to run the project
 ├── README.md                      # Provides an overview of the project, installation instructions, and usage details
+```
 
 
 ---
