@@ -69,10 +69,9 @@ LLM-KG-Chatbot/
 ##  Installation Instructions
 
 ### Prerequisites
-
-- Python 3.8+
-- Git
-- pip
+1. Python 3.8+
+2. Git
+3. pip
 
 
 ### Step 1: Clone the Repository
@@ -122,7 +121,7 @@ MODEL_END_POINT = "YOUR_BASE_URL"
 
 ---
 
-## ▶ Run the Chatbot
+##  Run the Chatbot
 
 Once setup is complete, run the chatbot using:
 
